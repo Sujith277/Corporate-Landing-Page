@@ -1,7 +1,7 @@
 
 
 
-# Corporate-Landing-Site
+# Corporate-Landing-Page
 
 This repository contains the source code for a Corporate website, implemented as a two page application (TPA) using HTML, CSS, JavaScript and MongoDb.
 
@@ -14,6 +14,8 @@ This repository contains the source code for a Corporate website, implemented as
 
 -MongoDb database
 
+-Google Spreadsheets
+
 # Silent Features :
 -Responsive Design.
 
@@ -21,14 +23,14 @@ This repository contains the source code for a Corporate website, implemented as
 
 -Unique and Dynamic Design.
 
--Contains HOME, ABOUT, SERVICES, CONTACT, TESTIMONALS and many other sections.
+-Contains HOME, ABOUT, SERVICES, TESTIMONALS, CONTACT and many other sections.
 
 # Installation
--To run the CorporateLanding Site locally as a single page application, follow these steps:
+-To run the Corporate Landing Page locally as a single page application, follow these steps:
 
--Clone this repository: gh repo clone Sujith277/Corporate-Landing-Page
+-Clone this repository:git clone https://github.com/Sujith277/Corporate-Landing-Page.git
 
--Navigate to the project directory: cd Corporate-Landing-Site
+-Navigate to the project directory: cd Corporate-Landing-Page
 
 -execute this commands in the terminal 
 -  **npm install express**
@@ -41,7 +43,7 @@ Once the website is running, the sections will be prominently displayed at the t
 
 **Read the headline to understand the main message or value proposition of the corporate website.**
 
-Use the website's services. If you have any questions about the corporate form, you can submit it through the contact form. Corporate employees will clarify any doubts you have. The messages you send will be stored in Google Sheets so that corporate employees can easily understand and respond to your queries.
+Use the website's services. If you have any questions about the corporate form, you can submit it through the contact form. Corporate employees will clarify any doubts you have. The messages you send will be stored in MongoDb database so that corporate employees can easily understand and respond to your queries.
 
 The webpage has a "get in touch" and "subscribe" option. The "get in touch" option allows users to submit their input and connect with corporate employees. The "subscribe" button allows corporate employees to see which users have liked the webpage and subscribed to it.
 
