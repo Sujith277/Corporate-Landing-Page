@@ -117,7 +117,9 @@ section.main-program-section {
 .social-icons img{
   width: 60px;
   transition:0.5s;
+  
 }
+
 
 .social-icons a:hover img{
   transform: translateY(-10px);
@@ -157,6 +159,9 @@ section.main-program-section {
 .subs-icons img{
   width: 500px;
   transition:0.5s;
+}
+.subs-icons img:hover {
+  transform: translateY(-10px);
 }
 
 @media screen and (max-width: 600px) {
