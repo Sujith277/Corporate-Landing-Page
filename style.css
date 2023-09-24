@@ -39,7 +39,10 @@
   width: 100%;
   height: fit-content;
 }
-
+@media screen and (max-width: 600px) {
+  .ab {
+    width: 250px; }
+  }
 /* about page ends */
 
 /*Services*/
@@ -156,6 +159,12 @@ section.main-program-section {
   transition:0.5s;
 }
 
+@media screen and (max-width: 600px) {
+  .subs-icons img {
+    width: 250px; }
+  }
+
+
 .subscribe{
   width: 100%;
   height: 100vh;
@@ -224,7 +233,6 @@ span{
   padding: 20px;
   text-align: center;
 }
-
 
 
 
