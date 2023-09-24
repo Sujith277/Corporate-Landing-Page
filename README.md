@@ -26,7 +26,7 @@ This repository contains the source code for a Corporate website, implemented as
 # Installation
 -To run the CorporateLanding Site locally as a single page application, follow these steps:
 
--Clone this repository: git clone https://github.com/Sujith277/Corporate-Landing-Page.git
+-Clone this repository: gh repo clone Sujith277/Corporate-Landing-Page
 
 -Navigate to the project directory: cd Corporate-Landing-Site
 
