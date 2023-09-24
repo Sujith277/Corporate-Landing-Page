@@ -26,7 +26,7 @@ This repository contains the source code for a Corporate website, implemented as
 # Installation
 -To run the CorporateLanding Site locally as a single page application, follow these steps:
 
--Clone this repository: git clone https://github.com/punithnmnp1/CorporateLandingSite.git
+-Clone this repository: git clone https://github.com/Sujith277/Corporate-Landing-Page.git
 
 -Navigate to the project directory: cd Corporate-Landing-Site
 
@@ -56,4 +56,4 @@ The webpage has a "get in touch" and "subscribe" option. The "get in touch" opti
 If you find any issues with the website or have suggestions for improvement, please feel free to submit a pull request or open an issue in this repository. Your contributions are welcome!
 
 # LIVE LINK
-https://punithnmnp1.github.io/CorporateLandingSite/
+https://sujith277.github.io/Corporate-Landing-Page/
