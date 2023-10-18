@@ -16,7 +16,7 @@ This repository contains the source code for a Corporate website, implemented as
 
 -Google Spreadsheets
 
-# Silent Features :
+# Salient Features :
 -Responsive Design.
 
 -Portfolio Template.
